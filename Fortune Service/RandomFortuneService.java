@@ -6,7 +6,7 @@ public class RandomFortuneService implements FortuneService {
 
 	// create an array of strings
 	private String[] fortuneArray = { 
-			"Daily Random Fortune: Don’t pursue happiness – create it.",
+			"Daily Random Fortune: Donâ€™t pursue happiness â€“ create it.",
 			"Daily Random Fortune: Success lies in the hands of those who want it.",
 			"Daily Random Fortune: The journey is the reward."
 	};
