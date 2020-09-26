@@ -1,4 +1,4 @@
-package playground;
+package com.amyhareven;
 
 import java.util.Scanner;
 
